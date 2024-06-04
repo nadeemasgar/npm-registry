@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.text {
+  font-family: "Nunito Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.heading {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #333;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  font-weight: normal;
+  color: #555;
+}
+.caption {
+  font-size: 0.8rem;
+  font-weight: normal;
+  color: #777;
+}
